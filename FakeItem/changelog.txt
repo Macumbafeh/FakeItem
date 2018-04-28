@@ -1,0 +1,14 @@
+1.3 (4/3/18):
+	* Separated the big data table into a load on-demand addon.
+
+1.2 (1/6/16):
+   * Added Vanilla-style suffixes.
+   * Querying the server for an unknown ID is now fully automated instead of saying to try again in a few seconds.
+   * Minor GUI changes to not look as ugly, to explain the power input and checkboxes, and to break up a few huge enchantment submenus.
+
+1.1 (10/20/15):
+   * Item icons can now be dropped onto the window to start editing them.
+   * Added checkboxes to make the text color red for the enchantment and 4th gem slot (not possible for the others).
+   * Added "Equipment > Boots/Bracer/Chest/etc" submenus with named enchantments to make it easier to find real things that might be used.
+   * Replaced Gems submenus with organized ones using proper names and probably the correct enchant IDs.
+   * Items should now show any pre-existing enchantment and gem names instead of just "default" for each field.

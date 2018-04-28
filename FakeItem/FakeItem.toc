@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: FakeItem
+## Author: Pyralis
+## Version: 1.3
+## Notes: Modify enchantments, gems, and the suffix of an item to create a fake item link.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+FakeItem.lua

@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: FakeItem (Data)
+## Author: Pyralis
+## Version: 1.3
+## Notes: Data for FakeItem - only loads when needed.
+## DefaultState: Enabled
+## LoadOnDemand: 1
+## Dependencies: FakeItem
+
+FakeItemData.lua
